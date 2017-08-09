@@ -48,8 +48,7 @@ During lane changes, the car doesn't spend more than 3 seconds outside the lane 
 
 **The car completes its trip within 360 seconds**
 
-Any submissions that don't finish within 360 seconds will be considered invalid
-.
+Any submissions that don't finish within 360 seconds will be considered invalid.
 
 
 
