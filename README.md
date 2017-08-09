@@ -29,7 +29,7 @@ The top right screen of the simulator shows the current/best miles driven withou
 
 **The car drives according to the speed limit**
 
-The car doesn't drive faster than the speed limit. Also the car isn't driving much slower than speed limit unless obstructed by traffic.
+The car doesn't drive faster than the speed limit of 50 miles per hour.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
