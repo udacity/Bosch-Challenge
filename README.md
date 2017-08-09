@@ -1,13 +1,13 @@
 # Udacity-Bosch Path Planning Challenge
 Your challenge is to design a path planner that creates smooth, safe paths along a 3-lane highway with traffic. Successful path planners will be able to keep inside their lanes, avoid hitting other cars, and pass slower moving traffic - all by using localization, sensor fusion, and map data. Path planners will be ranked by the time it takes them to complete a lap around a test track.
 
-# Bosch Track Release
-The Bosch track is a highway that continuously goes down the same direction but with some slight curviness. The guidelines for a valid submission are listed in the rubric below.
-
-# This challenge is based off of the Self-Driving Car Term 3 Project 1: Path Planning
+# Udacity Track Release
 Go here to download the simulator and original project track: https://github.com/udacity/CarND-Path-Planning-Project
 
 The competitive challenge element added to this project is a brand new highway to test on, along with a timer element that measures how quickly the target 2.75 miles can be completed without incident. 
+
+# Bosch Track Release
+The Bosch track is a highway that continuously goes down the same direction but with some slight curviness. The guidelines for a valid submission are listed in the rubric below.
 
 # Project Rubric 
 
