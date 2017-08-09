@@ -4,10 +4,15 @@ Your challenge is to design a path planner that creates smooth, safe paths along
 # Udacity Track Release
 Go here to download the simulator and original project track: https://github.com/udacity/CarND-Path-Planning-Project
 
+# Bosch Track Release
+The Bosch track is a highway that continuously goes down the same direction but with some slight curviness. 
+
 The competitive challenge element added to this project is a brand new highway to test on, along with a timer element that measures how quickly the target 2.75 miles can be completed without incident. 
 
-# Bosch Track Release
-The Bosch track is a highway that continuously goes down the same direction but with some slight curviness. The guidelines for a valid submission are listed in the rubric below.
+The guidelines for a valid submission are listed in the rubric below.
+
+# Final Evaluation Track
+Your submission will be run on a private evaluation track that will be similar to the Bosch track with the exception that the car placement won't be random.
 
 # Project Rubric 
 
@@ -50,6 +55,11 @@ During lane changes, the car doesn't spend more than 3 seconds outside the lane 
 
 Any submissions that don't finish within 360 seconds will be considered invalid.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Submission file must meet naming standards**
+
+Your file must be named main.cpp and include all the code required to successfully complete the Challenge. In addition, you must use the following map name in your code: highway_map_bosch1.csv
 
 
 
