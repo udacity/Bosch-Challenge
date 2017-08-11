@@ -59,7 +59,7 @@ Any submissions that don't finish within 360 seconds will be considered invalid.
 
 **Submission file must meet naming standards**
 
-Your file must be named main.cpp and include all the code required to successfully complete the Challenge. In addition, you must use the following map name in your code: highway_map_bosch1.csv
+Your .zip file must include main.cpp and all the code required to successfully compile. In addition, you must use the following map name in your code: highway_map_bosch1.csv
 
 
 
